@@ -1,0 +1,169 @@
+body{
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+.circle {
+    width: 1200px;
+    height: 170px;
+    border-radius: 25%;
+    background-color: white;
+    transition: background-color 0.3s;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border: 5px solid black;
+  }
+  
+  .circle:hover {
+    background-color: rgb(162, 177, 98);
+  }
+  .h1{
+ position: relative;
+ left: 300px;
+  }
+  .h11{
+    position: relative;
+    left: 500px;
+     }
+     .p{
+        position: relative;
+        left: 350px;
+        top: -10px;
+         }
+.img1{
+    position: relative;
+top: -150px;
+    left: 80px;
+    width: 100px;
+
+}
+.img2{
+    position: relative;
+    top: -150px;
+    left: 900px;
+    width: 100px;
+
+}
+.circle1 {
+    width: 500px;
+    height: 400px;
+    border-radius: 25%;
+    
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    position: relative;
+    left: 50px;
+    top: 50px;
+    border: 3px solid rgb(162, 177, 98);
+  }
+  .img5{
+    width: 200px;
+    border-radius: 15%;
+    position: relative;
+    border: 2px solid blue;
+    left: 30px;
+    top: 20px;
+
+  }
+  .img3{
+    width: 200px;
+    border-radius: 15%;
+    position: relative;
+    border: 2px solid blue;
+    left: 50px;
+    top: 30px;
+
+  }
+  .img4{
+    width: 180px;
+    border-radius: 15%;
+    border: 2px solid blue;
+    position: relative;
+    left: 20px;
+    top: 50px;
+
+  }
+  .img6{
+    width: 200px;
+    border-radius: 15%;
+    border: 2px solid blue;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    
+  }
+
+    .custom-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #337ab7;
+      width: 200px;
+      position: relative;
+      left: 800px;
+      top: -300px;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      transition: box-shadow 0.3s;
+    }
+    
+    .custom-button:hover {
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .custom-button1 {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #337ab7;
+      width: 200px;
+      position: relative;
+      left: 600px;
+      top: -150px;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      transition: box-shadow 0.3s;
+    }
+    
+    .custom-button1:hover {
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+    .custom-button2 {
+      display: inline-block;
+      padding: 10px 20px;
+      position: relative;
+      left: 200px;
+      top: -20px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      transition: box-shadow 0.3s;
+    }
+    
+    .custom-button2:hover {
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+    .circle3 {
+      width: 600px;
+      height: 200px;
+      position: relative;
+      left: 350px;
+      top: 200px;
+      border-radius: 25%;
+      background-color: rgb(73, 128, 102);
+      border: 2px solid black;
+      transition: background-color 0.3s;
+    }
+    
+    .circle3:hover {
+      background-color: rgb(195, 209, 116);
+    }
+    .h12{
+      position: relative;
+      left: 40px;
+      top: 50px;
+    }
+    
